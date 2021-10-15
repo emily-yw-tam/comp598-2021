@@ -1,0 +1,30 @@
+[W 2021-10-15 08:47:06.467 LabApp] 'certfile' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2021-10-15 08:47:06.467 LabApp] 'ip' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2021-10-15 08:47:06.467 LabApp] 'keyfile' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2021-10-15 08:47:06.467 LabApp] 'keyfile' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2021-10-15 08:47:06.467 LabApp] 'password' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2021-10-15 08:47:06.467 LabApp] 'password' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[I 2021-10-15 08:47:06.476 LabApp] JupyterLab extension loaded from /home/emilytam/anaconda3/lib/python3.8/site-packages/jupyterlab
+[I 2021-10-15 08:47:06.476 LabApp] JupyterLab application directory is /home/emilytam/anaconda3/share/jupyter/lab
+[I 08:47:06.480 NotebookApp] Serving notebooks from local directory: /home/emilytam/Downloads
+[I 08:47:06.481 NotebookApp] Jupyter Notebook 6.3.0 is running at:
+[I 08:47:06.481 NotebookApp] https://ip-172-31-0-208:8888/
+[I 08:47:06.481 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[I 08:47:24.615 NotebookApp] 302 GET / (99.242.61.197) 0.580000ms
+[W 08:47:35.668 NotebookApp] Notebook Homework4.ipynb is not trusted
+[I 08:47:36.104 NotebookApp] Kernel started: f3044f92-fe4e-4ad3-a8fb-c78acdd8b1ee, name: python3
+[I 08:47:46.552 NotebookApp] Starting buffering for f3044f92-fe4e-4ad3-a8fb-c78acdd8b1ee:911045ce684747268be25ec39ad6bfa5
+[I 08:47:46.775 NotebookApp] Kernel restarted: f3044f92-fe4e-4ad3-a8fb-c78acdd8b1ee
+[I 08:47:47.003 NotebookApp] Restoring connection for f3044f92-fe4e-4ad3-a8fb-c78acdd8b1ee:911045ce684747268be25ec39ad6bfa5
+[I 08:47:47.338 NotebookApp] Replaying 3 buffered messages
+[I 08:49:06.723 NotebookApp] Saving file at /Homework4.ipynb
+[I 08:49:13.953 NotebookApp] Starting buffering for f3044f92-fe4e-4ad3-a8fb-c78acdd8b1ee:911045ce684747268be25ec39ad6bfa5
+[I 08:49:18.567 NotebookApp] interrupted
+Serving notebooks from local directory: /home/emilytam/Downloads
+1 active kernel
+Jupyter Notebook 6.3.0 is running at:
+https://ip-172-31-0-208:8888/
+Shutdown this notebook server (y/[n])? [C 08:49:18.990 NotebookApp] received signal 2, stopping
+[I 08:49:18.991 NotebookApp] Shutting down 1 kernel
+[I 08:49:19.394 NotebookApp] Kernel shutdown: f3044f92-fe4e-4ad3-a8fb-c78acdd8b1ee
+[I 08:49:19.394 NotebookApp] Shutting down 0 terminals
