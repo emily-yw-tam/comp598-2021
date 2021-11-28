@@ -1314,16 +1314,6 @@
         "mrs. cake": 6,
         "discord": 1
     },
-    "iron will": {
-        "fluttershy": 26,
-        "pinkie pie": 18,
-        "rarity": 4,
-        "shining armor": 2,
-        "twilight sparkle": 25,
-        "princess cadance": 4,
-        "starlight glimmer": 1,
-        "yona": 5
-    },
     "mrs. cake": {
         "twilight sparkle": 9,
         "pinkie pie": 35,
@@ -1341,6 +1331,16 @@
         "mayor mare": 1,
         "sugar belle": 6,
         "cozy glow": 2
+    },
+    "iron will": {
+        "fluttershy": 26,
+        "pinkie pie": 18,
+        "rarity": 4,
+        "shining armor": 2,
+        "twilight sparkle": 25,
+        "princess cadance": 4,
+        "starlight glimmer": 1,
+        "yona": 5
     },
     "ember": {
         "spike": 32,
@@ -1371,21 +1371,6 @@
         "applejack": 3,
         "rainbow dash": 3
     },
-    "lord tirek": {
-        "discord": 27,
-        "twilight sparkle": 23,
-        "princess luna": 2,
-        "shining armor": 3,
-        "princess celestia": 3,
-        "applejack": 4,
-        "fluttershy": 4,
-        "rainbow dash": 4,
-        "spike": 4,
-        "rarity": 1,
-        "cozy glow": 2,
-        "pinkie pie": 6,
-        "sandbar": 2
-    },
     "snips": {
         "snails": 36,
         "twilight sparkle": 4,
@@ -1400,6 +1385,21 @@
         "apple bloom": 1,
         "diamond tiara": 1,
         "fluttershy": 1
+    },
+    "lord tirek": {
+        "discord": 27,
+        "twilight sparkle": 23,
+        "princess luna": 2,
+        "shining armor": 3,
+        "princess celestia": 3,
+        "applejack": 4,
+        "fluttershy": 4,
+        "rainbow dash": 4,
+        "spike": 4,
+        "rarity": 1,
+        "cozy glow": 2,
+        "pinkie pie": 6,
+        "sandbar": 2
     },
     "rumble": {
         "rainbow dash": 1,
@@ -1422,6 +1422,15 @@
         "twilight sparkle": 4,
         "pipsqueak": 1
     },
+    "sludge": {
+        "smolder": 7,
+        "spike": 44,
+        "rarity": 4,
+        "fluttershy": 1,
+        "twilight sparkle": 11,
+        "applejack": 3,
+        "pinkie pie": 4
+    },
     "snails": {
         "spike": 7,
         "snips": 36,
@@ -1434,15 +1443,6 @@
         "applejack": 6,
         "rainbow dash": 5,
         "fluttershy": 5
-    },
-    "sludge": {
-        "smolder": 7,
-        "spike": 44,
-        "rarity": 4,
-        "fluttershy": 1,
-        "twilight sparkle": 11,
-        "applejack": 3,
-        "pinkie pie": 4
     },
     "cheese sandwich": {
         "pinkie pie": 50,
@@ -1461,33 +1461,6 @@
         "big mcintosh": 1,
         "granny smith": 1
     },
-    "soarin": {
-        "spitfire": 12,
-        "applejack": 4,
-        "rainbow dash": 43,
-        "fluttershy": 1,
-        "twilight sparkle": 3,
-        "bulk biceps": 1,
-        "rarity": 3
-    },
-    "gabby": {
-        "apple bloom": 17,
-        "sweetie belle": 11,
-        "scootaloo": 29,
-        "cutie mark crusaders": 6
-    },
-    "filthy rich": {
-        "granny smith": 13,
-        "cheerilee": 1,
-        "diamond tiara": 1,
-        "rainbow dash": 3,
-        "applejack": 3,
-        "big mcintosh": 1,
-        "young applejack": 30,
-        "young big mcintosh": 9,
-        "sweetie drops": 1,
-        "rarity": 3
-    },
     "pipsqueak": {
         "granny smith": 1,
         "twilight sparkle": 12,
@@ -1502,6 +1475,33 @@
         "cutie mark crusaders": 1,
         "scootaloo": 4,
         "apple bloom": 13
+    },
+    "filthy rich": {
+        "granny smith": 13,
+        "cheerilee": 1,
+        "diamond tiara": 1,
+        "rainbow dash": 3,
+        "applejack": 3,
+        "big mcintosh": 1,
+        "young applejack": 30,
+        "young big mcintosh": 9,
+        "sweetie drops": 1,
+        "rarity": 3
+    },
+    "soarin": {
+        "spitfire": 12,
+        "applejack": 4,
+        "rainbow dash": 43,
+        "fluttershy": 1,
+        "twilight sparkle": 3,
+        "bulk biceps": 1,
+        "rarity": 3
+    },
+    "gabby": {
+        "apple bloom": 17,
+        "sweetie belle": 11,
+        "scootaloo": 29,
+        "cutie mark crusaders": 6
     },
     "photo finish": {
         "twilight sparkle": 3,
@@ -1547,16 +1547,16 @@
         "spike": 1,
         "pinkie pie": 1
     },
-    "mudbriar": {
-        "pinkie pie": 61,
-        "maud pie": 7,
-        "starlight glimmer": 1
-    },
     "gladmane": {
         "fluttershy": 11,
         "applejack": 16,
         "flim": 11,
         "flam": 15
+    },
+    "mudbriar": {
+        "pinkie pie": 61,
+        "maud pie": 7,
+        "starlight glimmer": 1
     },
     "capper": {
         "twilight sparkle": 8,
@@ -1604,6 +1604,13 @@
         "rarity": 1,
         "fluttershy": 5
     },
+    "princess ember": {
+        "spike": 34,
+        "rarity": 5,
+        "garble": 7,
+        "twilight sparkle": 2,
+        "starlight glimmer": 2
+    },
     "ms. peachbottom": {
         "rainbow dash": 12,
         "fluttershy": 5,
@@ -1612,13 +1619,6 @@
         "pinkie pie": 3,
         "rarity": 1,
         "shining armor": 8
-    },
-    "princess ember": {
-        "spike": 34,
-        "rarity": 5,
-        "garble": 7,
-        "twilight sparkle": 2,
-        "starlight glimmer": 2
     },
     "stellar flare": {
         "starlight glimmer": 12,
@@ -1653,21 +1653,31 @@
         "apple bloom": 1,
         "sweetie belle": 1
     },
-    "pharynx": {
-        "trixie": 12,
-        "thorax": 27,
-        "starlight glimmer": 13
+    "hoity toity": {
+        "applejack": 13,
+        "twilight sparkle": 2,
+        "rarity": 8,
+        "photo finish": 7
     },
     "rover": {
         "spike": 4,
         "rarity": 34,
         "twilight sparkle": 1
     },
-    "hoity toity": {
-        "applejack": 13,
-        "twilight sparkle": 2,
-        "rarity": 8,
-        "photo finish": 7
+    "pharynx": {
+        "trixie": 12,
+        "thorax": 27,
+        "starlight glimmer": 13
+    },
+    "double diamond": {
+        "twilight sparkle": 6,
+        "applejack": 3,
+        "fluttershy": 2,
+        "pinkie pie": 1,
+        "rainbow dash": 7,
+        "starlight glimmer": 21,
+        "sugar belle": 4,
+        "rarity": 1
     },
     "trouble shoes": {
         "apple bloom": 19,
@@ -1675,18 +1685,6 @@
         "sweetie belle": 5,
         "cutie mark crusaders": 2,
         "applejack": 2
-    },
-    "dr. caballeron": {
-        "rainbow dash": 15,
-        "daring do": 12,
-        "fluttershy": 1,
-        "quibble pants": 18,
-        "pinkie pie": 1
-    },
-    "firelight": {
-        "starlight glimmer": 29,
-        "stellar flare": 16,
-        "sunburst": 6
     },
     "sweetie drops": {
         "rainbow dash": 1,
@@ -1702,22 +1700,12 @@
         "scootaloo": 3,
         "cozy glow": 1
     },
-    "double diamond": {
-        "twilight sparkle": 6,
-        "applejack": 3,
-        "fluttershy": 2,
-        "pinkie pie": 1,
-        "rainbow dash": 7,
-        "starlight glimmer": 21,
-        "sugar belle": 4,
-        "rarity": 1
-    },
-    "the storm king": {
-        "tempest shadow": 27,
-        "twilight sparkle": 6,
-        "capper": 4,
-        "pinkie pie": 4,
-        "applejack": 1
+    "dr. caballeron": {
+        "rainbow dash": 15,
+        "daring do": 12,
+        "fluttershy": 1,
+        "quibble pants": 18,
+        "pinkie pie": 1
     },
     "derpy": {
         "rainbow dash": 6,
@@ -1726,6 +1714,18 @@
         "matilda": 3,
         "spike": 2,
         "rarity": 16
+    },
+    "firelight": {
+        "starlight glimmer": 29,
+        "stellar flare": 16,
+        "sunburst": 6
+    },
+    "the storm king": {
+        "tempest shadow": 27,
+        "twilight sparkle": 6,
+        "capper": 4,
+        "pinkie pie": 4,
+        "applejack": 1
     },
     "matilda": {
         "pinkie pie": 4,
@@ -1736,13 +1736,25 @@
         "rainbow dash": 1,
         "mayor mare": 2
     },
-    "princess skystar": {
-        "twilight sparkle": 9,
-        "pinkie pie": 8,
-        "applejack": 3,
-        "rarity": 2,
-        "capper": 1,
-        "spike": 1
+    "neighsay": {
+        "twilight sparkle": 33,
+        "ember": 3,
+        "silverstream": 1,
+        "prince rutherford": 2,
+        "gallus": 1,
+        "spike": 2,
+        "yona": 2,
+        "princess celestia": 1
+    },
+    "nightmare moon": {
+        "twilight sparkle": 27,
+        "rainbow dash": 4,
+        "applejack": 1,
+        "pipsqueak": 1,
+        "princess luna": 2,
+        "princess celestia": 2,
+        "spike": 4,
+        "starlight glimmer": 1
     },
     "young rainbow dash": {
         "fluttershy": 1,
@@ -1757,24 +1769,12 @@
         "granny smith": 6,
         "filthy rich": 9
     },
-    "nightmare moon": {
-        "twilight sparkle": 27,
-        "rainbow dash": 4,
-        "applejack": 1,
-        "pipsqueak": 1,
-        "princess luna": 2,
-        "princess celestia": 2,
-        "spike": 4,
-        "starlight glimmer": 1
-    },
-    "neighsay": {
-        "twilight sparkle": 33,
-        "ember": 3,
-        "silverstream": 1,
-        "prince rutherford": 2,
-        "gallus": 1,
-        "spike": 2,
-        "yona": 2,
-        "princess celestia": 1
+    "princess skystar": {
+        "twilight sparkle": 9,
+        "pinkie pie": 8,
+        "applejack": 3,
+        "rarity": 2,
+        "capper": 1,
+        "spike": 1
     }
 }
