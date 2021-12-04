@@ -1,1 +1,1 @@
-# Homework 2 - Unix server and command-line exercises
+# Homework 2 - Unix Server and Command-Line Exercises
