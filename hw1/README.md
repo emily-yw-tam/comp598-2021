@@ -1,4 +1,4 @@
-# HW1
+# Homework 1 - Mini Data Science Project
 
 It turns out that our approach isn’t counting tweets properly … meaning that some tweets are getting counted more than once.  Go through and look at your annotated data.  Identify where the counting problem is coming from.
 
